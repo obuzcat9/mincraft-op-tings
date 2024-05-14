@@ -7,7 +7,7 @@
       "minecraft:hit_block": [
         {
           "effect": {
-            "type": "minecraft:explode",
+            "type": "minecraft:wind_charge",
             "block_interaction": "mob",
             "large_particle": {
               "type": "minecraft:angry_villager"
